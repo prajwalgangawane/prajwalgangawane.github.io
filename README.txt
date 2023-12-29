@@ -1,6 +1,6 @@
 Prajwal Gangawane has created to suit a Electronics and Telecommunications Engineer, professional Webdesigner, Web UI Developer, UX/UI Developer, Freelance Developer. This is a clean responsive web design template used for personal portfolio’s websites to show case my work and resume and more. This template is built on Bootstrap framework which give flexibilty to customeise the theme easly as per the user requirements. All latest technology HTML5 CSS3, jQuery and bootstrap.
 
-link :: https://mysticpraj.github.io/prajgangawane.com/
+link :: https://prajwalgangawane.github.io/
 
 Key features
 Twitter Bootstrap 3.1.1
